@@ -1,0 +1,16 @@
+Hello Spark World
+Spark is great for big data processing
+Hello World from Apache Spark
+Big data processing with Spark
+Apache Spark makes data processing easy
+Hello from the world of big data
+Spark Spark Spark everywhere
+Data processing is fun with Apache Spark
+The quick brown fox jumps over the lazy dog
+Apache Spark is a unified analytics engine
+Big data analytics with Apache Spark
+Scala programming with Apache Spark
+Distributed computing made easy with Spark
+Real-time data processing using Spark Streaming
+Machine learning with Spark MLlib
+Graph processing with GraphX in Spark
