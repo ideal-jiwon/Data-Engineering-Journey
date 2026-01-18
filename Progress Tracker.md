@@ -9,6 +9,7 @@
 
 	- Jan, 10 2026 : I started working on improving SQL from Jan03 
 	- Jan, 9 2026 : I Completed "https://www.sqlclimber.com/assignments/beginner"
+ 	- Jan, 18 2026 : I starting working on "https://www.sqlclimber.com/assignments/elementary"	 
 
 
 **Python**
